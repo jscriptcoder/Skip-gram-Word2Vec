@@ -1,6 +1,6 @@
 # Skip-gram Word2Vec
 
-**NOTE:** This project is an optional excercise from Deep Learning Nanodegree from Udacity.
+**NOTE:** This project is an optional excercise from [Deep Learning Nanodegree by Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
 PyTorch implementation of Word2Vec algorithm using the Skip-gram architecture. The main  porpuse of this project is for me to learn about embedding words for use in Natural Language Processing.
 
