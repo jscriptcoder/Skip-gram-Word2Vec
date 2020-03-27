@@ -2,7 +2,7 @@
 
 **NOTE:** This project is an optional excercise from [Deep Learning Nanodegree by Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
-PyTorch implementation of [Word2Vec algorithm]((https://arxiv.org/abs/1301.3781)) using the Skip-gram architecture and [Negative Sampling](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) to improve both the quality of the vectors and the training speed. The main porpuse of this project is for me to learn about embedding words for use in Natural Language Processing.
+PyTorch implementation of [Word2Vec algorithm](https://arxiv.org/abs/1301.3781)) using the Skip-gram architecture and [Negative Sampling](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) to improve both the quality of the vectors and the training speed. The main porpuse of this project is for me to learn about embedding words for use in Natural Language Processing.
 
 ## Readings
 
