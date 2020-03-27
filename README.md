@@ -1,4 +1,4 @@
-# Skip-gram Word2Vec
+# Skip-gram Word2Vec and Negative Sampling
 
 **NOTE:** This project is an optional excercise from [Deep Learning Nanodegree by Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
