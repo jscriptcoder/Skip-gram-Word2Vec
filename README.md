@@ -2,6 +2,10 @@
 
 **NOTE:** This project is an optional excercise from [Deep Learning Nanodegree by Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
+My solution: [Jupyter notebook](https://nbviewer.jupyter.org/github/jscriptcoder/Skip-gram-Word2Vec/blob/master/Word2Vec.ipynb)
+
+---
+
 PyTorch implementation of [Word2Vec algorithm](https://arxiv.org/abs/1301.3781) using the Skip-gram architecture and [Negative Sampling](https://arxiv.org/abs/1310.4546) to improve both the quality of the vectors and the training speed. The main porpuse of this project is for me to learn about embedding words for use in Natural Language Processing.
 
 ## Readings
